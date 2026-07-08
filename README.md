@@ -11,7 +11,7 @@ Designed for both developer machines and automated CI/CD pipelines.
 ```bash
 # Clone the repository
 git clone https://github.com/sayanssha/cyber-protect-bot.git
-cd cyber-protect-bot
+cd cyber-bot
 
 # Run a scan on any directory
 python3 cyber_protect_bot.py -p /path/to/your/project
