@@ -10,7 +10,7 @@ Designed for both developer machines and automated CI/CD pipelines.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/sayanssha/cyber-protect-bot.git](https://github.com/YOUR_GITHUB_USERNAME/cyber-protect-bot.git)
+git clone https://github.com/sayanssha/cyber-protect-bot.git
 cd cyber-protect-bot
 
 # Run a scan on any directory
